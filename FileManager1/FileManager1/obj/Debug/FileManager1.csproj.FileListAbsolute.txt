@@ -1,0 +1,7 @@
+F:\Other2\FileManager1\FileManager1\FileManager1\bin\Debug\FileManager1.exe.config
+F:\Other2\FileManager1\FileManager1\FileManager1\bin\Debug\FileManager1.exe
+F:\Other2\FileManager1\FileManager1\FileManager1\bin\Debug\FileManager1.pdb
+F:\Other2\FileManager1\FileManager1\FileManager1\obj\Debug\FileManager1.csprojAssemblyReference.cache
+F:\Other2\FileManager1\FileManager1\FileManager1\obj\Debug\FileManager1.csproj.CoreCompileInputs.cache
+F:\Other2\FileManager1\FileManager1\FileManager1\obj\Debug\FileManager1.exe
+F:\Other2\FileManager1\FileManager1\FileManager1\obj\Debug\FileManager1.pdb
